@@ -1,0 +1,2 @@
+1.要先npm i -g live-server
+2.npx live-server --port=3000
